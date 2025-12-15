@@ -1,0 +1,14 @@
+torch
+transformers
+sentence-transformers
+openai
+langchain
+pymupdf
+pydantic
+faiss-cpu
+pillow
+python-dotenv
+tools
+fitz
+langchain_community
+clip
