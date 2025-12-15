@@ -1,6 +1,6 @@
 ## 🔍📄🤖 RAG-DocXplorer
 
-**RAG-DocXplorer** is a modular Retrieval-Augmented Generation (RAG) framework for intelligent question answering over scientific documents. It supports PDF preprocessing, semantic chunk retrieval with embeddings and LLM-based answer generation.
+**RAG-DocXplorer** is a modular Retrieval-Augmented Generation (RAG) framework for intelligent question answering over scientific documents. It supports PDF and image preprocessing, semantic chunk retrieval using FAISS with text and visual embeddings (CLIP), and LLM-based answer generation for accurate, context-aware responses.
 
 ## Features
 
